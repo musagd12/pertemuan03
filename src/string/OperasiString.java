@@ -20,5 +20,7 @@ public class OperasiString {
         System.out.println(kota.substring(5));
         System.out.println(kota.substring(0,4));
 
+
+
     }
 }
