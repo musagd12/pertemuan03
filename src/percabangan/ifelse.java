@@ -5,7 +5,7 @@ public class ifelse {
         double totalBelanja = 53000;
         double uangDiDompet = 25000;
 
-        if (uangDiDompet<totalBelanja){
+        if(uangDiDompet<totalBelanja){
             System.out.println("Uang kurang, kurangi jajan anda");
         }else{
             System.out.println("Uang cukup, selamat menikmati");
